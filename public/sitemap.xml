@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://7azycoder.github.io/</loc>
+    <lastmod>2019-05-01T05:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/</loc>
+    <lastmod>2019-05-01T05:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/typography/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/engineering-support/</loc>
+    <lastmod>2018-07-26T19:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/authors/</loc>
+    <lastmod>2019-05-01T05:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/categories/</loc>
+    <lastmod>2019-05-01T05:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/tags/config/</loc>
+    <lastmod>2019-01-06T23:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/katex-support/</loc>
+    <lastmod>2018-08-12T12:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/tags/</loc>
+    <lastmod>2019-05-01T05:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/categories/features/</loc>
+    <lastmod>2019-05-01T05:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/tags/katex/</loc>
+    <lastmod>2018-08-12T12:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/authors/muniftanjim/</loc>
+    <lastmod>2019-05-01T05:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/flowcharts/</loc>
+    <lastmod>2018-07-29T19:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/authors/achary/</loc>
+    <lastmod>2019-05-01T05:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/tags/engineering/</loc>
+    <lastmod>2018-07-29T19:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/message-sequence-charts/</loc>
+    <lastmod>2018-07-27T10:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/charts/</loc>
+    <lastmod>2018-07-27T19:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/deprecated/</loc>
+    <lastmod>2018-07-27T19:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/waveforms/</loc>
+    <lastmod>2018-07-26T19:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/graphviz/</loc>
+    <lastmod>2018-07-26T19:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/page/</loc>
+    <lastmod>2018-07-26T19:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/features-summary/</loc>
+    <lastmod>2018-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/search-fuse-js/</loc>
+    <lastmod>2018-07-20T20:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/tags/fuse.js/</loc>
+    <lastmod>2018-07-20T20:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/tags/search/</loc>
+    <lastmod>2018-07-20T20:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/search-algolia/</loc>
+    <lastmod>2018-07-05T23:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/tags/algolia/</loc>
+    <lastmod>2018-07-05T23:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/search-lunr-js/</loc>
+    <lastmod>2018-07-05T20:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/tags/lunr.js/</loc>
+    <lastmod>2018-07-05T20:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/search-support/</loc>
+    <lastmod>2018-07-06T01:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/comments-support/</loc>
+    <lastmod>2019-01-06T23:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/emoji-support/</loc>
+    <lastmod>2018-02-27T21:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/mathjax-support/</loc>
+    <lastmod>2018-02-27T18:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/sidebar/</loc>
+    <lastmod>2018-03-29T05:20:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/widgets/</loc>
+    <lastmod>2018-11-21T19:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/tags/widgets/</loc>
+    <lastmod>2018-11-21T19:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/shortcodes/</loc>
+    <lastmod>2019-05-01T05:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/tags/shortcode/</loc>
+    <lastmod>2019-05-01T05:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/cover-image/</loc>
+    <lastmod>2018-06-04T23:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/translation/</loc>
+    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/tags/i18n/</loc>
+    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/tags/translation/</loc>
+    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/syntax-highlighting/</loc>
+    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/tags/chroma/</loc>
+    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/tags/pygments/</loc>
+    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/menus/</loc>
+    <lastmod>2018-05-24T02:10:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/tags/menus/</loc>
+    <lastmod>2018-05-24T02:10:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/tags/og/</loc>
+    <lastmod>2017-10-11T18:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/opengraph/</loc>
+    <lastmod>2017-10-11T18:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/authors/</loc>
+    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/tags/authors/</loc>
+    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/config-file/</loc>
+    <lastmod>2018-02-08T15:15:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/categories/others/</loc>
+    <lastmod>2018-02-08T15:15:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/categories/tutorial/</loc>
+    <lastmod>2018-02-08T15:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/updating/</loc>
+    <lastmod>2018-02-08T14:45:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/docs/installation/</loc>
+    <lastmod>2018-02-08T15:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://7azycoder.github.io/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
