@@ -34,7 +34,7 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
-holder = "Lovepreet"
+holder = "Lazy Coder"
 startYear = "2019"
 suffix = ""
 
@@ -49,7 +49,7 @@ showReadingTime = true
 showLastmod = true
 taxonomyCloudShuffle = false
 accentColor = "#44ccff"
-hideMainMenu = false
+hideMainMenu = true
 rtl = false
 
 [params.sidebar]
@@ -77,6 +77,7 @@ titleSeparator = "•"
 email = "7azycoder@gmail.com"
 github = "7azycoder"
 twitter = "7azycoder"
+linkedin = "7azycoder"
 
 [params.comments]
 enable = false
@@ -88,11 +89,11 @@ scriptSrc = "" # "https://isso.example.com/js/embed.min.js"
 dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [params.comments.staticman]
-enable = true
+enable = false
 apiEndpoint = "https://api.staticman.net/v2/entry"
 maxDepth = 2
-username = "achary"
-repository = "engimo"
+username = "7azycoder"
+repository = "mywebsite"
 branch = "master"
 
 # Utterances: https://utteranc.es
@@ -125,7 +126,7 @@ page = "/:slug/"
 name = "Repo"
 weight = -10
 identifier = "repository"
-url = "https://github.com/achary/engimo"
+url = "https://github.com/7azycoder/mywebsite"
 
 [blackfriday]
 hrefTargetBlank = true
