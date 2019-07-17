@@ -22,7 +22,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "7azycoder's blog for everyone"
+description = "not everything, not yet"
 title404 = "Nothing's here!"
 
 [params.assets]
