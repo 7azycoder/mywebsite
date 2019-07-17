@@ -122,11 +122,11 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 
-[[menu.main]]
-name = "Repo"
-weight = -10
-identifier = "repository"
-url = "https://github.com/7azycoder/mywebsite"
+#[[menu.main]]
+#name = "Repo"
+#weight = -10
+#identifier = "repository"
+#url = "https://github.com/7azycoder/mywebsite"
 
 [blackfriday]
 hrefTargetBlank = true
