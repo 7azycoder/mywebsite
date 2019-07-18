@@ -7,8 +7,6 @@ weight: -210
 
 Hi, I'm Lovepreet Singh. I am primarily a front-end developer with some experience in the back-end. I have created a few apps for Android in the past.
 
-Quoting Steve Jobs -
-
 > Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.
 > — Steve Jobs
 
